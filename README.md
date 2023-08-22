@@ -1,3 +1,4 @@
+# Sadly HNisa has been discontinued due to unable to maintain It's server.
 # HNisa
 HNisa API library.
 
